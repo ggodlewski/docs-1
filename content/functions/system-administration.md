@@ -2,8 +2,8 @@
 id: '1MF8wO3sFZvlVUNng29ljpIXW_32tUixolqLeaTteVBo'
 title: 'System Administration'
 date: '2020-02-27T21:20:07.223Z'
-version: 24
-lastAuthor: 'aquandt'
+version: 25
+lastAuthor: 'Alan Quandt'
 mimeType: 'text/x-markdown'
 links:
   - 'system-administration/system-controls.md'

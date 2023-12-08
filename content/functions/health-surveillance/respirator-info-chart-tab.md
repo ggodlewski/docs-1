@@ -2,11 +2,11 @@
 id: '1hC2eNGlT7-hlJL8e0UtDCtFdjzHuswjFqxryMOzc8zU'
 title: 'Respirator Info Chart Tab'
 date: '2020-02-27T20:00:56.891Z'
-version: 24
+version: 26
 mimeType: 'text/x-markdown'
 links: []
 source: 'https://drive.google.com/open?id=1hC2eNGlT7-hlJL8e0UtDCtFdjzHuswjFqxryMOzc8zU'
-wikigdrive: 'b79298d5e22adad5600e11ad6116c5fb4c39eb66'
+wikigdrive: 'dev'
 ---
 The Respirator Info is a chart tab found in the employee's E-Chart. Click this tab to see only the specific respirator panel memberships the employee belongs to.
 
