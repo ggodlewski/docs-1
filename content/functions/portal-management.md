@@ -2,7 +2,7 @@
 id: '1LKzU8ETTRlQ5idTGXfBDZybkugKjy5x5zy0JbKFyM94'
 title: 'Portal Management'
 date: '2021-04-27T18:15:34.584Z'
-version: 72
+version: 71
 lastAuthor: 'Doug Horner'
 mimeType: 'text/x-markdown'
 links:
@@ -15,7 +15,7 @@ links:
   - 'portal-management/employer-employee-second-portal-setup.md'
   - 'portal-management/messages-from-nmc-user.md'
 source: 'https://drive.google.com/open?id=1LKzU8ETTRlQ5idTGXfBDZybkugKjy5x5zy0JbKFyM94'
-wikigdrive: 'b79298d5e22adad5600e11ad6116c5fb4c39eb66'
+wikigdrive: 'dev'
 ---
 
 

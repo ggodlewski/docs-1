@@ -2,14 +2,14 @@
 id: '1trmJBS-LCTGZHK9_TvFwTxl9ZQjr8cE-pGn9-aEy6rI'
 title: 'Quality Reporting'
 date: '2020-02-27T21:26:25.410Z'
-version: 45
-lastAuthor: 'Alan Quandt'
+version: 43
+lastAuthor: 'aquandt'
 mimeType: 'text/x-markdown'
 links:
   - '../functions/quality-of-care/quality-reporting-enrollment.md'
   - 'quality-reporting/brief-introduction-to-quality-reporting.md'
 source: 'https://drive.google.com/open?id=1trmJBS-LCTGZHK9_TvFwTxl9ZQjr8cE-pGn9-aEy6rI'
-wikigdrive: 'b79298d5e22adad5600e11ad6116c5fb4c39eb66'
+wikigdrive: 'dev'
 ---
 
 

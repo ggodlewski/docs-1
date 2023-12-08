@@ -2,12 +2,12 @@
 id: '1QaQQxJirP8pjxLBGGUDdiJnkcBYeMGC9uvK5TwME2po'
 title: 'Non-Compliant Report'
 date: '2023-05-05T16:22:31.976Z'
-version: 58
+version: 57
 lastAuthor: 'Bridget Hamm'
 mimeType: 'text/x-markdown'
 links: []
 source: 'https://drive.google.com/open?id=1QaQQxJirP8pjxLBGGUDdiJnkcBYeMGC9uvK5TwME2po'
-wikigdrive: 'b79298d5e22adad5600e11ad6116c5fb4c39eb66'
+wikigdrive: 'dev'
 ---
 You must have security role access to the Reports module/tab. This setting is in the Security Role Editor and is in {{% system-name %}} controls called STATISTICS. Set to Yes or No. This allows users within a role to access the entire Reports left-side bar tab (except Tran Stats tab). Also allows users within a role to access the Statistics tab in Control.  
 Non-Compliant Report lists patients that are not taking the proper medications (by drug class) for their condition (ex: CHF patients)  

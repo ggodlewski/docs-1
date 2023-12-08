@@ -2,14 +2,14 @@
 id: '1p0dlJGmRnbLsD0P24XK2HhNfippFvvM7D17j2quOxuk'
 title: 'Quality Reporting Enrollment'
 date: '2020-03-20T17:33:15.915Z'
-version: 117
+version: 114
 lastAuthor: ''
 mimeType: 'text/x-markdown'
 links:
   - 'measures.md'
   - '../reports/using-datavis-grids-data-tools.md'
 source: 'https://drive.google.com/open?id=1p0dlJGmRnbLsD0P24XK2HhNfippFvvM7D17j2quOxuk'
-wikigdrive: 'b79298d5e22adad5600e11ad6116c5fb4c39eb66'
+wikigdrive: 'dev'
 ---
 In order to better serve client needs, {{% system-name %}} has streamlined the concepts and efforts of quality reporting participation, in order to serve all interested entities. If, as a standard, a business would like to track ongoing quality of care initiatives, or even participate in sponsored quality programs, {{% system-name %}} systems now offer a plethora of quantifiable and reportable measures, designed to track and improve overall care delivery.
 

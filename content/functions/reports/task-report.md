@@ -2,11 +2,11 @@
 id: '1uViuWqtilTHglw0nchgu3VvxMT0Ne6OpoiyUZNe_Px4'
 title: 'Task Report'
 date: '2020-02-27T20:17:07.946Z'
-version: 23
+version: 22
 mimeType: 'text/x-markdown'
 links: []
 source: 'https://drive.google.com/open?id=1uViuWqtilTHglw0nchgu3VvxMT0Ne6OpoiyUZNe_Px4'
-wikigdrive: 'b79298d5e22adad5600e11ad6116c5fb4c39eb66'
+wikigdrive: 'dev'
 ---
 You must have security role access to the Reports module/tab. This setting is in the Security Role Editor and is in {{% system-name %}} controls called STATISTICS. Set to Yes or No. This allows users within a role to access the entire Reports left-side bar tab (except Tran Stats tab). Also allows users within a role to access the Statistics tab in Control.  
 Click *Reports* tab on the left side-bar menu.  

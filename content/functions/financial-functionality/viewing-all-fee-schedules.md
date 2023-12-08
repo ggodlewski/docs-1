@@ -2,12 +2,12 @@
 id: '1nad6bnJlNKZcV7TI6aSKIG4J2twAgP_Damj7nU-nGkI'
 title: 'Viewing all fee schedules'
 date: '2021-02-17T19:43:21.908Z'
-version: 22
+version: 21
 lastAuthor: 'ahumes'
 mimeType: 'text/x-markdown'
 links: []
 source: 'https://drive.google.com/open?id=1nad6bnJlNKZcV7TI6aSKIG4J2twAgP_Damj7nU-nGkI'
-wikigdrive: 'b79298d5e22adad5600e11ad6116c5fb4c39eb66'
+wikigdrive: 'dev'
 ---
 1. Select the side menu. The side menu appears.
 2. Select <strong>Control Panel</strong>. The <em>Admin</em> tab opens. 

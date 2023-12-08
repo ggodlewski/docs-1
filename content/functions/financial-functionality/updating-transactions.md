@@ -2,14 +2,14 @@
 id: '1Ue6lNKwOnv04L49jydrvYRs2xIHXHp8cmIA6WdCoCVM'
 title: 'Updating transactions'
 date: '2021-02-18T19:06:46.993Z'
-version: 19
+version: 18
 lastAuthor: 'egrzetich'
 mimeType: 'text/x-markdown'
 links:
   - 'accessing-the-ledger.md'
   - 'finding-ledger-transactions.md'
 source: 'https://drive.google.com/open?id=1Ue6lNKwOnv04L49jydrvYRs2xIHXHp8cmIA6WdCoCVM'
-wikigdrive: 'b79298d5e22adad5600e11ad6116c5fb4c39eb66'
+wikigdrive: 'dev'
 ---
 Update ledger transactions only correct entry errors. Make other adjustments by adding transactions.
 1. [Access the ledger](accessing-the-ledger.md).

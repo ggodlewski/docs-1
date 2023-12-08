@@ -2,13 +2,13 @@
 id: '1-tfONkRUSjg4mxAfE1pcRYwgRK2t1LN-Vw9qorSz9U8'
 title: 'Finding ledger transactions'
 date: '2021-02-18T16:48:01.963Z'
-version: 21
+version: 20
 lastAuthor: 'egrzetich'
 mimeType: 'text/x-markdown'
 links:
   - 'accessing-the-ledger.md'
 source: 'https://drive.google.com/open?id=1-tfONkRUSjg4mxAfE1pcRYwgRK2t1LN-Vw9qorSz9U8'
-wikigdrive: 'b79298d5e22adad5600e11ad6116c5fb4c39eb66'
+wikigdrive: 'dev'
 ---
 1. [Access the ledger](accessing-the-ledger.md).
 2. To find transactions by payee:

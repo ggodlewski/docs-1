@@ -2,12 +2,12 @@
 id: '1Al_53cJIgXetnbNLD0FLUXjIy7Gul0aHAPQJGPHwNdg'
 title: 'Finding employer organizations'
 date: '2021-02-17T19:42:19.484Z'
-version: 19
+version: 16
 lastAuthor: 'ahumes'
 mimeType: 'text/x-markdown'
 links: []
 source: 'https://drive.google.com/open?id=1Al_53cJIgXetnbNLD0FLUXjIy7Gul0aHAPQJGPHwNdg'
-wikigdrive: 'b79298d5e22adad5600e11ad6116c5fb4c39eb66'
+wikigdrive: 'dev'
 ---
 1. Select the side menu. The side menu appears.
 2. Select <strong>Control Panel</strong>. The <em>Admin</em> tab opens. 

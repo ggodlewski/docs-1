@@ -2,14 +2,14 @@
 id: '1p7wZkQtojxLvxtFtLCsGHUlWBFkAgh3Mxay-pZ3sws4'
 title: 'Using information about expired fee schedules in grids'
 date: '2021-02-18T19:10:05.187Z'
-version: 18
+version: 17
 lastAuthor: 'egrzetich'
 mimeType: 'text/x-markdown'
 links:
   - 'viewing-expired-fee-schedules.md'
   - '../reports/using-datavis-grids-data-tools.md'
 source: 'https://drive.google.com/open?id=1p7wZkQtojxLvxtFtLCsGHUlWBFkAgh3Mxay-pZ3sws4'
-wikigdrive: 'b79298d5e22adad5600e11ad6116c5fb4c39eb66'
+wikigdrive: 'dev'
 ---
 Use the following information about expired fee schedules in a grid:
 * Fee schedule name

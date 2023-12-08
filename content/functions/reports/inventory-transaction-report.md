@@ -2,11 +2,11 @@
 id: '1gRYfeUHGiLquKk9t2JdT7N9FB4E6usFStodhy2VLLUg'
 title: 'Inventory Transaction Report'
 date: '2020-02-27T20:14:45.791Z'
-version: 28
+version: 27
 mimeType: 'text/x-markdown'
 links: []
 source: 'https://drive.google.com/open?id=1gRYfeUHGiLquKk9t2JdT7N9FB4E6usFStodhy2VLLUg'
-wikigdrive: 'b79298d5e22adad5600e11ad6116c5fb4c39eb66'
+wikigdrive: 'dev'
 ---
 Show Transaction Report tab is located within the sidemenu tab named *Inventory*.  
 You can get to the Transaction Report and search fields by clicking this specific tab, or you can get to the Transaction Report by clicking on a specific medication item name or Lot Number hyperlink from the Show Inventory module and it will take you to this Transaction Report with fields prepopulate with that specific inventory item details to run the report by. This Transaction Report is a report of any and all transactions related to the inventory module.

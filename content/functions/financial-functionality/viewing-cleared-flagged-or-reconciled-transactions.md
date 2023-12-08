@@ -2,13 +2,13 @@
 id: '1yGFA_7iHZBY2hTo4OadZcZE_EyZmN_6Om4XgLZZPudI'
 title: 'Viewing cleared, flagged, or reconciled transactions'
 date: '2021-02-18T19:10:40.416Z'
-version: 19
+version: 18
 lastAuthor: 'egrzetich'
 mimeType: 'text/x-markdown'
 links:
   - 'accessing-the-ledger.md'
 source: 'https://drive.google.com/open?id=1yGFA_7iHZBY2hTo4OadZcZE_EyZmN_6Om4XgLZZPudI'
-wikigdrive: 'b79298d5e22adad5600e11ad6116c5fb4c39eb66'
+wikigdrive: 'dev'
 ---
 1. [Access the ledger](accessing-the-ledger.md).
 2. At the upper-right, select <strong>Registry View</strong>. The system displays the registry view.

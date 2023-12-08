@@ -2,8 +2,8 @@
 id: '1MF8wO3sFZvlVUNng29ljpIXW_32tUixolqLeaTteVBo'
 title: 'System Administration'
 date: '2020-02-27T21:20:07.223Z'
-version: 25
-lastAuthor: 'Alan Quandt'
+version: 24
+lastAuthor: 'aquandt'
 mimeType: 'text/x-markdown'
 links:
   - 'system-administration/system-controls.md'
@@ -12,7 +12,7 @@ links:
   - 'system-administration/security.md'
   - 'system-administration/asset-management.md'
 source: 'https://drive.google.com/open?id=1MF8wO3sFZvlVUNng29ljpIXW_32tUixolqLeaTteVBo'
-wikigdrive: 'b79298d5e22adad5600e11ad6116c5fb4c39eb66'
+wikigdrive: 'dev'
 ---
 
 

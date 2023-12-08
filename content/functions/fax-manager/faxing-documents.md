@@ -2,13 +2,13 @@
 id: '1m6v3HgyiGVoT4r2LTce3OC0uSMx00sczOS4Pu10rU-g'
 title: 'Faxing Documents'
 date: '2020-03-16T16:21:29.768Z'
-version: 60
+version: 57
 lastAuthor: ''
 mimeType: 'text/x-markdown'
 links:
   - 'outbound-faxing-email-notifications-of-sent-failed-faxes.md'
 source: 'https://drive.google.com/open?id=1m6v3HgyiGVoT4r2LTce3OC0uSMx00sczOS4Pu10rU-g'
-wikigdrive: 'b79298d5e22adad5600e11ad6116c5fb4c39eb66'
+wikigdrive: 'dev'
 ---
 ## Fax or Print an Individual Document from Chart
 
